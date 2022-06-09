@@ -1,0 +1,44 @@
+        body{
+            background-image: url("https://www.verywellfit.com/thmb/q0ndesrA7ZS9wrMaBiMG0rHJCMY=/2119x1415/filters:fill(FFDB5D,1)/GettyImages-13504301661-86b30d0c3ca941d99df84b24b8ed7158.jpg");
+            margin: 0 auto;
+        }        
+        
+        h1 {
+            color : #5F9EA0;
+        }
+
+        img{
+            width: 400px;
+        }
+
+        div {
+            display: flex;
+            justify-content:center;
+            margin: 0 auto;
+        }
+
+        #thirdDiv{
+            height: 600px;
+            width: 500px;
+            background-color: #A52A2A;
+            padding: 50px;
+            border-width: 1vh;
+            border-color: black;
+            border-style: dashed;
+            display: flex;
+            justify-content:center;
+            
+        }
+
+        #spanId{
+            font-size: 18px;
+            margin: 50px;
+            display: flex;
+            justify-content:center;
+        }
+
+
+        #divClass{
+            display: flex;
+            justify-content:center;
+        }
